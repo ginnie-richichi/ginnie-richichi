@@ -2,7 +2,7 @@
 - 👀 I’m interested in React & front end frameworks
 - 🌱 I’m currently learning React and React Native
 - 📫 How to reach me ginnie.richichi@gmail.com
-- 😄 Pronouns: She/He
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a horse called May!
 
 <!---
